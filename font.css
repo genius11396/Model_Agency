@@ -1,0 +1,15 @@
+@@font-face{
+	font-family: 'font_name1';
+	src: url('fonts/SourceSerifPro-Bold.ttf');
+}
+
+@font-face{
+	font-family: 'font_name2';
+	src: url('fonts/SourceSerifPro-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'font_name3';
+	src: url('fonts/SourceSerifPro-SemiBold.ttf');
+}
+
